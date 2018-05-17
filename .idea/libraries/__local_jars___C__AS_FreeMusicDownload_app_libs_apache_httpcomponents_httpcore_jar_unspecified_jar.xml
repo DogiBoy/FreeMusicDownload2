@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:C.\AS\FreeMusicDownload\app\libs\apache-httpcomponents-httpcore.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/apache-httpcomponents-httpcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

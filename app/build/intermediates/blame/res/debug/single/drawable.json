@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl17.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl17.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pop.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hiphop.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\hiphop.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl20.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl20.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_folk.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_folk.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl14.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl14.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl4.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl4.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blues.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\blues.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl15.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl15.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jazz.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\jazz.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl16.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl16.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_rock.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_rock.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_relaxation.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_relaxation.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hiphop.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\hiphop.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl2.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl2.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl4.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl4.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_metal.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_metal.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_piano.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_piano.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rock.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl19.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl19.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl9.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl9.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\latin.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\latin.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_folk.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_folk.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl13.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl13.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\dark.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambient.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\ambient.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_indie.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_indie.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_rock.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_rock.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folk.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\folk.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl18.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl18.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundtrack.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\soundtrack.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl12.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl12.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\house.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\house.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\house.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\house.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\funk.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\funk.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\romance.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\romance.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\energetic.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\energetic.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl6.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl6.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\country.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reggae.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\reggae.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl19.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl19.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_electro.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_electro.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_lounge.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_lounge.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotional.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\emotional.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl8.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl8.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_relaxation.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_relaxation.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl14.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl14.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classical.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\classical.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_indie.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_indie.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pop.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_bestofjamendo.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_bestofjamendo.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl9.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl9.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl3.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl3.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punk.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\punk.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soundtrack.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\soundtrack.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indie.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\indie.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl5.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl5.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indie.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\indie.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_jazz.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_jazz.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sad.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\sad.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chillout.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\chillout.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl1.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl1.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sad.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\sad.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\romance.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\romance.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blues.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\blues.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl16.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl16.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electronic.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\electronic.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl13.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl13.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playlist.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\playlist.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_hiphop.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_hiphop.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\punk.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\punk.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rnb.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\rnb.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl18.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl18.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl5.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl5.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folk.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\folk.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\latin.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\latin.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl1.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl1.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_lounge.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_lounge.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_country.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_country.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl7.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl7.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_country.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_country.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\funk.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\funk.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl3.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl3.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jazz.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\jazz.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reggae.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\reggae.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dark.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\dark.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_classical.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_classical.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl15.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl15.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_happy.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_happy.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl7.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl7.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl11.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl11.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rnb.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\rnb.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\happy.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playlist.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\playlist.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl10.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl10.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chillout.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\chillout.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rock.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\energetic.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\energetic.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_hiphop.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_hiphop.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_bestofjamendo.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_bestofjamendo.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl10.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl10.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_electro.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_electro.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electronic.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\electronic.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_classical.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_classical.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl12.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl12.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\metal.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\metal.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emotional.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\emotional.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_jazz.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_jazz.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\metal.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\metal.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\happy.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl20.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl20.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\classical.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\classical.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ambient.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\ambient.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl11.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl11.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl17.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl17.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_piano.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_piano.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_pop.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_pop.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_pop.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_pop.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_metal.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_metal.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r_happy.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\r_happy.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl6.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl6.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl2.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl2.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dance.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\dance.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\country.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\country.png"
+    },
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pl8.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\pl8.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dance.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\drawable\\dance.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    }
+]

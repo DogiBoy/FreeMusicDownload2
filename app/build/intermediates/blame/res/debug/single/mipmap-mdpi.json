@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\FreeMusicDownload\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AS\\FreeMusicDownload\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\AS\\FreeMusicDownload\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

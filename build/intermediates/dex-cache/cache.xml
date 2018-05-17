@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_d5108e4670c950e0655087d94108631a8c6dd794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_f6b93052cde700aabc006416900434187ad1cbc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_a8e8d49f4f58f5c486806f5f990e16f76f9ae711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_06062153d55669cde3324ef5e358ae6012f0aac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_bc3b77e539089bd4d1462a3352fbdc88a7bacd4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_456c58ede8e02590adf07693395349f5899f4246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_8bade870d83d805d9682c645615c42ef8ba52ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_ca85d644f51d6b5c2efaef6507fb0471a60711e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\libs\universal-image-loader-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d2efc8f6c4ed6beb71d27595b19239c2b29b3dfb">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.3_a35805cc75d48db604af2a2db76232a1d4a34627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dogi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_9b04bcc96eff36b6a3ce9cc2fbc6e0e28ec2fd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_bce28078070485c9e3c9a1af9f904c229490e11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\libs\StartAppInApp-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0383efaf75fec8965cc3565f4ea92b042015aea6">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\StartAppInApp-3.6.6_29f243788d63690b3acd48737e50201a91fc05be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_950acf3dcaa2bbc8a478b613f2dafd3b776b47ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AS\FreeMusicDownload\app\libs\httpclient-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="C:\AS\FreeMusicDownload\app\build\intermediates\pre-dexed\debug\httpclient-4.0.3_f6f68edb45c24b8bd2234bc23e4b47009574a8cf.jar" />
+    </item>
+
+</items>
